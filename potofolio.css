@@ -1,0 +1,183 @@
+.d1{
+    background-image: url(wp7453739-portfolio-wallpapers.jpg);
+    height: 800px;
+    width: 100%;
+    background-size: cover; 
+    background-position: center; 
+    
+}
+.d2{
+    /* background-image: url(bg.jpg); */
+    height: 800px;
+    width: 100%;
+    background-size: cover; 
+    background-position: center; 
+}
+.d3{
+    background-image: url(imgbg.jpg);
+    height: 410px;
+    width: 100%;
+    background-size: cover; 
+    background-position: center; 
+}
+.d4{
+    /* background-image: url(bg.jpg); */
+    height: 400px;
+    width: 100%;
+    background-size: cover; 
+    background-position: center; 
+}
+
+#h1{
+    position: relative;
+        left: 150px;
+        top: 150px;
+        color: #ffffff;
+}
+/* #ip, */
+#ip2{
+    position: relative;
+        left: 140px;
+        top: 200px;
+}
+#ip2{
+    text-align: left;
+}
+.in{
+    top: 1000px;
+    left: 200px;
+}
+/* #ip{  
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 400px;
+    height: 5px;  
+} */
+#ip2{  
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 12px; 
+    width: 50px;
+    height: 2px;  
+    top: 200px;
+}
+#home{
+    position: relative;
+    left: 800px;
+    top: 50px;
+    color: black;
+}
+#a1{
+    position: relative;
+    left: 850px;
+    top: 50px;
+    color: black;
+}
+#a2{
+    position: relative;
+    left: 900px;
+    top: 50px;
+    color: black;
+}
+#a3{
+    position: relative;
+    left: 950px;
+    top: 50px;
+    color: black;
+}
+#img1{
+    border-radius: 25px;
+    border: 2px solid #000000;
+    padding: 20px; 
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 70px;
+
+}
+#self{
+    position: relative;
+    /* left: 0%; */
+    bottom : 250px;
+    font-size: larger ;
+    color: whitesmoke;
+    /* top: 20%; */
+}
+#sub{  
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 100px;
+    height: 5px;  
+    position: relative;
+    left: 47%;
+    bottom: 300px;
+    background-color: #09c6ac;
+}
+
+.column {
+    float: left;
+    width: 20%;
+    padding: 5px;
+  }
+  .column2{
+    position: relative;
+    float: left;
+    width: 20%;
+    padding: 5px;
+    left: 7%;
+  }
+  .column3{
+    position: relative;
+    float: left;
+    width: 20%;
+    padding: 5px;
+    left: 14%;
+  }
+  .column4{
+    position: relative;
+    float: left;
+    width: 25%;
+    padding: 5px;
+    left: 76%;
+    bottom: 90%;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  #li{
+    position: relative;
+    left: 150px;
+    top: 100px;
+  }
+  #gh{
+    position: relative;
+    left: 180px;
+    top: 100px;
+  }
+  #gm{
+    position: relative;
+    left: 210px;
+    top: 100px;
+  }
+  #call{
+    position: relative;
+    left: 240px;
+    top: 100px;
+  }
+  #h2{
+    position: relative;
+    right: 700px;
+  }
+  .img{
+    display: flex;
+  }
+  
